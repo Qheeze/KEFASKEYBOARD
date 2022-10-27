@@ -105,7 +105,8 @@ hr {
   margin: auto;
   top: -2rem;
 }
-#dj {
+#dj,
+#da {
   position: relative;
   margin-left: 70%;
   top: -1rem;
